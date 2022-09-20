@@ -4,40 +4,36 @@
 <head>
     <meta charset="UTF-8" />
     <title>Martin Fowler</title>
-    <style>
-        p {
-            text-align: justify;
-            text-indent: 50px;
-        }
-
-        h1 {
-            font-family: Arial;
-            font-size: 30pt;
-            color: slategrey;
-            text-shadow: 2px 2px 2px black;
-        }
-
-        h2 {
-            font-family: Arial;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
+
 <body>
     <div id="interface">
         <header id="cabecalho">
             <h1>Martin Fowler</h1>
-            Menu Principal
-            - About
-            - History
-            - Home
-            - Books
-            - Thoughtworks
+            <nav id="menu">
+                <h2>Menu</h2>
+                <ul type="disc">
+                    <li><a href="martinfowler.html">About</a></li>
+                    <li><a href="history.html">History</a></li>
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="books.html">Books</a></li>
+                    <li><a href="thoughtworks.html">Thoughtworks</a></li>
+                </ul>
+            </nav>
         </header>
         <h2>Who am I?</h2>
-        <img src="imagens/martin_fowler.jpg">
+        <figure class="foto-legenda">
+            <img src="images/martin_fowler.jpg">
+            <figcaption>
+                <h3>Martin Fowler</h3>
+                <p>Foto retirada do Google.</p>
+            </figcaption>
+        </figure>
         <p>I am Martin Fowler: an author, speaker… essentially a loud-mouthed pundit on the
             topic of software
-            development, primarily for Enterprise Applications. I work for Thoughtworks, a software delivery company,
+            development, primarily for Enterprise Applications. I work for <a href="https://www.thoughtworks.com/"
+                target="_blank">Thoughtworks</a>, a software delivery company,
             where I have the exceedingly inappropriate title of "Chief Scientist". I have written half-a-dozen books on
             software development, including Refactoring, and Patterns of Enterprise Application Architecture. I write
             for and edit the website martinfowler.com.</p>
