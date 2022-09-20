@@ -48,8 +48,7 @@ figure.foto-legenda {
 }
 
 figure.foto-legenda img {
-    width: 250px;
-
+    width: 230px;
 }
 
 /* Formatando a legenda */
@@ -60,7 +59,7 @@ figure.foto-legenda figcaption {
     top: 0px;
     background-color: rgba(0, 0, 0, .4);
     color: white;
-    width: 250px;
+    width: 230px;
     height: 100%;
     padding: 10px;
     box-sizing: border-box;
@@ -93,8 +92,8 @@ nav#menu ul {
     list-style: none;
     text-transform: uppercase;
     position: absolute;
-    top: 0px;
-    right: 100px;
+    top: 8px;
+    right: 270px;
 }
 
 nav#menu li {
