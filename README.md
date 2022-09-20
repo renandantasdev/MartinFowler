@@ -1,7 +1,7 @@
 # MartinFowler
 
 <h2>Who am I?</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/200px-Webysther_20150414193208_-_Martin_Fowler.jpg"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/200px-Webysther_20150414193208_-_Martin_Fowler.jpg" align="left" width="23%"> &nbsp;
 <p>I am Martin Fowler: an author, speaker… essentially a loud-mouthed pundit on the
 topic of software
 development, primarily for Enterprise Applications. I work for Thoughtworks, a software delivery company,
